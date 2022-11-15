@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JeromeSola
+- 👀 I’m interested in DevOps, Streaming OTT, Cloud, Deploying infras and Cyber
+- 🌱 I’m currently learning Cybersecurity stuff such as using SOAR and include CI/CD to maintain platforms
